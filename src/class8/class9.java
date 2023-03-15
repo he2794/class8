@@ -1,2 +1,10 @@
-package class8;public class class9 {
+package class8;
+
+public class class9 {
+    public static void main(String[] args) {
+
+
+
+
+    }
 }
